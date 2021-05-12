@@ -1,0 +1,66 @@
+
+body{
+    font: 20px  arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.navbar{
+    background-color: #051838;
+}
+
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quem-somos{
+    background-color: #2A446F;
+    color: white;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.titulo{
+    padding-bottom: 40px;
+}
+
+.parceiros{
+    background-color: #020D21;
+}
+
+.serviços{
+    background-color: #122A52;
+}
+
+.bg-footer{
+    background-color: black;
+    padding-top: 20px;
+}
+
+.contato{
+    text-decoration: none;
+    color: white;   
+}
+
+.contato:hover{
+    color: rgb(206, 206, 206);
+}
+
+.cont{
+    display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.p{
+    padding-top: 0px;
+}
+
+.bottom{
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
