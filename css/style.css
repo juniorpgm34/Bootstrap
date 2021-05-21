@@ -66,6 +66,6 @@ body{
     padding-bottom: 20px;
 }
 
-.img{
-    padding: auto;;
+.img-fluid{
+    padding-left: 0px;
 }
